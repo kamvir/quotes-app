@@ -31,3 +31,5 @@ To run the application on your device:
   <li> Type <b> ionic cordova platform add android/ios </b> on the command prompt.</li>
   <li> After that, type <b> ionic cordova run android/ios </b> on the command prompt.</li>
   </ul>
+  
+  <code> ionic cordova platform add android/ios</code>
