@@ -22,14 +22,14 @@
   <li> How to change the background-color from settings</li>
   </ul>
   
-# Note: 
+ 
 <h3>
 To run the application on your device:
 </h3>
 <ul>
   <li>Make sure that you have attached your device(<b>with USB debugging ON</b>) or have an emulator running for the same</li>
-  <li> Type <b> ionic cordova platform add android/ios </b> on the command prompt.</li>
-  <li> After that, type <b> ionic cordova run android/ios </b> on the command prompt.</li>
+  <li> Type <code> ionic cordova platform add android/ios</code> on the command prompt.</li>
+  <li> After that, type <code> ionic cordova run android/ios </code> on the command prompt.</li>
   </ul>
   
-  <code> ionic cordova platform add android/ios</code>
+  
